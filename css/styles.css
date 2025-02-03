@@ -1,0 +1,65 @@
+body{
+    background-color: #efe4ce;
+    
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+
+header{
+    
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+.about-me h2{
+    text-align: left;
+    font-size: 35px;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+.about-me p{
+    text-align: justify;
+    font-size: 25px;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+
+.hobbies h2 {
+    text-align: left;
+    font-size: 35px;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+
+.hobbies{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+
+.hobbies p {
+    text-align: justify;
+    font-size: 25px;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+}
+
+.hobbies a {
+    font-size: 35px;
+    color: rgb(0, 144, 55);
+    text-align: center;
+    
+}
